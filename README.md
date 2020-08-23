@@ -3,8 +3,8 @@
 ## I'm a Student and Front-end developer!
 
 - ⚡ I’m currently working on a [YouTeam][website]!
-- ⚡ I’m currently learning everything
 - ⚡ 2020 Goals: Up my account to 4 Kyu in [codewars][codewars-link]
+- ⚡ I’m currently learning everything
 - ⚡ Fun fact: I love to mountains and play football / tennis
 
 ### Connect with me:
