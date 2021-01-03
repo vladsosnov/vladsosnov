@@ -2,8 +2,8 @@
 
 ## I'm a Student and Front-end developer!
 
-- ⚡ I’m currently working on a [YouTeam][website]!
-- ⚡ 2020 Goals: Up my account to 4 Kyu in [codewars][codewars-link]
+- ⚡ I’m currently working on a [GroupBWT][website]!
+- ⚡ 2021 Goals: Up my account to 4 Kyu in [codewars][codewars-link]
 - ⚡ I’m currently learning everything
 - ⚡ Fun fact: I love to mountains and play football / tennis
 
@@ -36,7 +36,7 @@
 
 <img align="left" alt="Vlad Sosnov Github Stats" src="https://github-readme-stats.vercel.app/api?username=vladsosnov&show_icons=true&hide_border=true&hide=s,prs,issues" />
 
-[website]: https://youteam.co.uk
+[website]: https://groupbwt.com/
 [codewars-link]: https://www.codewars.com/users/vladsosnov
 [instagram]: https://www.instagram.com/vlade4ek_s/
 [linkedin]: https://linkedin.com/in/vlad-sosnov
