@@ -36,7 +36,7 @@
 
 <img align="left" alt="Vlad Sosnov Github Stats" src="https://github-readme-stats.vercel.app/api?username=vladsosnov&show_icons=true&hide_border=true&hide=s,prs,issues" />
 
-[website]: globallogic.com
+[website]: https://www.globallogic.com/
 [codewars-link]: https://www.codewars.com/users/vladsosnov
 [instagram]: https://www.instagram.com/vlade4ek_s/
 [linkedin]: https://linkedin.com/in/vlad-sosnov
