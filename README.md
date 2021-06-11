@@ -2,7 +2,7 @@
 
 ## I'm a Student and Front-end developer!
 
-- ⚡ I’m currently working on a [GroupBWT][website]!
+- ⚡ I’m currently working on a [GlobalLogic][website]!
 - ⚡ 2021 Goals: Up my account to 3 Kyu in [codewars][codewars-link]
 - ⚡ I’m currently learning everything
 - ⚡ Fun fact: I love to mountains and play football / tennis
@@ -36,7 +36,7 @@
 
 <img align="left" alt="Vlad Sosnov Github Stats" src="https://github-readme-stats.vercel.app/api?username=vladsosnov&show_icons=true&hide_border=true&hide=s,prs,issues" />
 
-[website]: https://groupbwt.com/
+[website]: globallogic.com
 [codewars-link]: https://www.codewars.com/users/vladsosnov
 [instagram]: https://www.instagram.com/vlade4ek_s/
 [linkedin]: https://linkedin.com/in/vlad-sosnov
