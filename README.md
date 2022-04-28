@@ -3,7 +3,7 @@
 ## I'm a Student and Front-end developer!
 
 - ⚡ I’m currently working on a [GlobalLogic][website]!
-- ⚡ 2021 Goals: Up my account to 3 Kyu in [codewars][codewars-link]
+- ⚡ 2022 Goals: Up my account to 3 Kyu in [codewars][codewars-link]
 - ⚡ I’m currently learning everything
 - ⚡ Fun fact: I love to mountains and play football / tennis
 
