@@ -3,9 +3,8 @@
 ## I'm a Student and Front-end developer!
 
 - ⚡ I’m currently working on a [GlobalLogic][website]!
-- ⚡ 2022 Goals: Up my account to 3 Kyu in [codewars][codewars-link]
-- ⚡ I’m currently learning everything
-- ⚡ Fun fact: I love to mountains and play football / tennis
+- ⚡ 2023 Goals: 150+ tasks/quizes on [BFE][bfe-link]
+- ⚡ I’m currently learning everything about FE
 
 ### Connect with me:
 
@@ -39,6 +38,6 @@
 <img align="left" alt="Vlad Sosnov Github Stats" src="https://github-readme-stats.vercel.app/api?username=vladsosnov&show_icons=true&hide_border=true&hide=s,prs,issues" />
 
 [website]: https://www.globallogic.com/
-[codewars-link]: https://www.codewars.com/users/vladsosnov
+[bfe-link]: https://bigfrontend.dev/
 [instagram]: https://www.instagram.com/vlade4ek_s/
 [linkedin]: https://linkedin.com/in/vlad-sosnov
