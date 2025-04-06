@@ -2,8 +2,7 @@
 
 ## I'm a Student and Front-end developer!
 
-- ⚡ I’m currently working on a [Splunk][website]!
-- ⚡ I’m currently learning everything about FE
+- ⚡ I’m currently working on a [Splunk][!website]
 
 ### Connect with me:
 
