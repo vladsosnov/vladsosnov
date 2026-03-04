@@ -1,6 +1,6 @@
 ### Hi there, I'm Vlad 👋
 
-## I'm a Student and Front-end developer!
+## I'm a Senior Software engineer!
 
 - ⚡ I’m currently working on a [Splunk][website]
 
