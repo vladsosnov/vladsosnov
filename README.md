@@ -3,7 +3,7 @@
 
 🚀 Building scalable, high-performance web applications  
 ⚡ Currently working on enterprise solutions at **Splunk**  
-🌱 Expanding into backend development with **Node.js**  
+🌱 Expanding into backend development with Node.js
 🧠 Passionate about clean architecture, DX, and UI performance  
 
 ---
@@ -12,7 +12,7 @@
 
 - 💼 Senior Software Engineer with strong frontend expertise  
 - 🏗 Architecting scalable UI systems and component libraries  
-- ⚙️ Currently deepening backend knowledge with **Node.js & APIs**
+- ⚙️ Currently deepening backend knowledge with Node.js & APIs
 - 🔍 Focused on performance optimization & clean code  
 - 🤝 Enjoy mentoring, code reviews, and improving engineering standards  
 
