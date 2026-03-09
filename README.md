@@ -28,6 +28,7 @@ Passionate about clean architecture, performance optimization, and developer exp
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000?style=for-the-badge&logo=socketdotio)
 
 ### Frontend
