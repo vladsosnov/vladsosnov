@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Vlad  
 ### Senior Software Engineer
 
-- Building scalable, high-performance web applications  
-- Currently working on enterprise solutions at **Splunk**  
-- Expanding into backend development with Node.js
-- Passionate about clean architecture, DX, and UI performance  
+Building scalable, high-performance web applications for enterprise environments.  
+Currently working on large-scale solutions at **Splunk**.
+
+Passionate about clean architecture, performance optimization, and developer experience.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 What I Do
 
-- Senior Software Engineer with strong frontend expertise  
-- Architecting scalable UI systems and component libraries  
-- Currently deepening backend knowledge with Node.js & APIs
-- Focused on performance optimization & clean code  
-- Enjoy mentoring, code reviews, and improving engineering standards  
+- Design and scale complex UI architectures  
+- Build reusable component systems  
+- Improve performance and maintainability of large codebases  
+- Drive code quality through reviews and engineering standards  
+- Mentor engineers and support team growth  
+- Build backend services with Node.js  
 
 ---
 
